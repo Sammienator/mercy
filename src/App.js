@@ -114,7 +114,7 @@ export default function ValentinesCard() {
             <div className={`intro-page ${direction === 'next' ? 'slide-in-right' : 'slide-in-left'}`}>
               <div className="intro-emoji">💌</div>
               <h1 className="intro-title">
-                Hey Mercy...! ✨
+                Hey There...! ✨
               </h1>
               <p className="intro-text">
                 I made something special for you... 
